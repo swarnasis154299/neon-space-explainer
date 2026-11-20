@@ -1,0 +1,8 @@
+node_modules/
+out/
+renders/
+.env
+*.mp4
+*.wav
+tools/ffbin/
+.DS_Store
