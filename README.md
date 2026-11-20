@@ -1,8 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
-# ðŸª neon-space-explainer
+# 🪐 neon-space-explainer
 
-**A Claude skill that makes "What ifâ€¦?" science reels from a single prompt.**
+**A Claude skill that makes "What if…?" science reels from a single prompt.**
 
 Neon flat-vector space art, an original kid + critter duo, punchy captions and an original score, all generated as code with [Remotion](https://remotion.dev).
 
@@ -16,12 +16,12 @@ Neon flat-vector space art, an original kid + critter duo, punchy captions and a
 
 Ask your agent *"make a reel about what would happen if Earth had rings"* and the skill runs the whole pipeline:
 
-**beat sheet â†’ fact check â†’ cue sheet â†’ scenes â†’ score + SFX â†’ review stills â†’ render**
+**beat sheet → fact check → cue sheet → scenes → score + SFX → review stills → render**
 
-- **1080Ã—1920, 30 fps** vertical video for Shorts, Reels and TikTok
+- **1080×1920, 30 fps** vertical video for Shorts, Reels and TikTok
 - **Everything is code:** SVG scenes, motion helpers and a Web Audio score, so output is deterministic and 100% original (no stock assets)
 - Deep navy/violet starfields, glowing two-tone planets, pill labels on leader lines, zoom-inset cards, dashed orbits, "Not to scale" tags
-- Bold 2â€“3-word captions in the lower third
+- Bold 2–3-word captions in the lower third
 - Wordless by default, or add a voiceover with [Fish Audio](https://fish.audio)
 - Facts are verified with web search and hedged on screen when they're hypotheses
 
